@@ -1,0 +1,11 @@
+E:\embeddedproject\src\main.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\main.obj
+E:\embeddedproject\src\cpuCore.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\cpuCore.obj
+E:\embeddedproject\src\rtos.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\rtos.obj
+E:\embeddedproject\src\gpio.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\gpio.obj
+E:\embeddedproject\src\trafficLight.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\trafficLight.obj
+E:\embeddedproject\src\tempControl.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\tempControl.obj
+E:\embeddedproject\src\utility.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\utility.obj
+E:\embeddedproject\src\scheduler.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\scheduler.obj
+E:\embeddedproject\src\config.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\config.obj
+E:\embeddedproject\src\memory.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\memory.obj
+E:\embeddedproject\src\peripherals.cpp;E:\embeddedproject\build\EmbeddedSimulator.dir\Debug\peripherals.obj

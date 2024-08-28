@@ -1,0 +1,10 @@
+^E:\EMBEDDEDPROJECT\BUILD\CMAKEFILES\B44817D51F1A6C68067E16637F269B97\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/embeddedproject -BE:/embeddedproject/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/embeddedproject/build/EmbeddedSimulator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
